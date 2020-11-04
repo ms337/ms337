@@ -1,4 +1,4 @@
-![Header](https://github.com/ms337/ms337/master/assets/img/header.png)
+<!-- ![Header](https://github.com/ms337/ms337/blob/main/assets/img/header.png) -->
 
 # Hi, I'm Madhav.
 
