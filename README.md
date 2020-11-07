@@ -1,6 +1,6 @@
 <!-- ![Header](https://github.com/ms337/ms337/blob/main/assets/img/header.png) -->
 
-![Header](https://raw.githubusercontent.com/ms337/ms337/master/assets/header.png)
+![Header](https://raw.githubusercontent.com/ms337/ms337/main/assets/header.png)
 
 # Hi, I'm Madhav.
 
