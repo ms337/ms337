@@ -4,18 +4,20 @@
 
 # Hi, I'm Madhav.
 
-I like building things, and exploring ideas in physics, genetics, and philosophy.
+I like building things and learning at the intersection of hard sciences and product/technology.
 
-<!-- - 🔭 I’m currently working on a
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ... -->
+- 🔭 I’m currently working on an app to take new photos of users, without really taking photos of users.
 
-## Tech Stack 🛠
+- 🌱 I’m currently learning Abstract Algebra, program design from SICP, and learning theory in ML.
+
+- ⚡ I write about technical and non-technical ideas and share compiled notes from what I read on [blog.madhav.space](https://blog.madhav.space/).
+  <!-- - 👯 I’m looking to collaborate on ... -->
+  <!-- - 🤔 I’m looking for help with ... -->
+  <!-- - 💬 Ask me about ... -->
+  <!-- - 📫 How to reach me: T -->
+  <!-- - 😄 Pronouns: ... -->
+
+<!-- ## Tech Stack 🛠
 
 <div>
     <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white"/>
@@ -40,4 +42,4 @@ I like building things, and exploring ideas in physics, genetics, and philosophy
 <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
-</div>
+</div> -->
