@@ -6,7 +6,9 @@
 
 I like building things and learning at the intersection of hard sciences and product/technology.
 
-- 🔭 I’m currently working on an app to take new photos of users, without really taking photos of users.
+- 🔭 I’m currently working on a "TikTok for education and lifeskills" app called Cato which is in closed beta here: https://testflight.apple.com/join/K6efzw2s.
+
+  The app leverages gamification techniques and our learned behaviour of being addicted to content feeds to make learning frictionless. Reach out if you want to try the app out or contribute to development!
 
 - 🌱 I’m currently learning Abstract Algebra, program design from SICP, and learning theory in ML.
 
