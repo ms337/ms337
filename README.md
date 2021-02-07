@@ -10,7 +10,7 @@ I like building things and learning at the intersection of hard sciences and pro
 
   The app leverages gamification techniques and our learned behaviour of being addicted to content feeds to make learning frictionless. Reach out if you want to try the app out or contribute to development!
 
-- 🌱 I’m currently learning Abstract Algebra, program design from SICP, and learning theory in ML.
+- 🌱 I’m currently learning Haskell, Gatsby and sexual selection theory in evolutionary psychology. I recently was learning Abstract Algebra, program design from SICP, and basic ML learning theory. 
 
 - ⚡ I write about technical and non-technical ideas and share compiled notes from what I read on [blog.madhav.space](https://blog.madhav.space/).
   <!-- - 👯 I’m looking to collaborate on ... -->
