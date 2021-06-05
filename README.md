@@ -8,7 +8,7 @@ I like building things and learning at the intersection of hard sciences and pro
 
 Currently:
 
-- 🔭 I am working on project in generative deep learning. Aiming to launch by the end of August.
+- 🔭 I am working on a project in generative deep learning. Aiming to launch by the end of August.
 
 
 In the last 6 months:
