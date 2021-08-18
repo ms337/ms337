@@ -8,7 +8,7 @@ I like building things and learning at the intersection of sciences and product/
 
 Currently:
 
-- Going back to school in September to finish up my last year of university. I will be mostly taking courses in CS and applied mathematics. I am looking forward to get back to studying after 16 months of working through internships.
+- Going back to school in September to finish up my last year of university.
 
 
 In the last 6 months:
