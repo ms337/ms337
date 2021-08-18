@@ -19,7 +19,7 @@ In the last 6 months:
 
 - 🌱 Spent time learning Vector Analyis and explored computational biology.  
 
-- ⚡ I write about technical and non-technical ideas and share compiled notes from what I read on [blog.madhav.space](https://msinghal.dev/).
+- ⚡ I write about technical and non-technical ideas and share compiled notes from what I read on [https://msinghal.dev/](https://msinghal.dev/).
   <!-- - 👯 I’m looking to collaborate on ... -->
   <!-- - 🤔 I’m looking for help with ... -->
   <!-- - 💬 Ask me about ... -->
