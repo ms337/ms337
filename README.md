@@ -1,27 +1,25 @@
 <!-- ![Header](https://github.com/ms337/ms337/blob/main/assets/img/header.png) -->
 
-![Header](https://raw.githubusercontent.com/ms337/ms337/main/assets/header.png)
+<!-- ![Header](https://raw.githubusercontent.com/ms337/ms337/main/assets/header.png) -->
 
 # Hi, I'm Madhav.
 
-I like building things and learning at the intersection of hard sciences and product/technology.
+I like building things and learning at the intersection of sciences and product/technology.
 
 Currently:
 
-- 🔭 I am working on a project in generative deep learning. Aiming to launch by the end of August.
+- Going back to school in September to finish up my last year of university. I will be mostly taking courses in CS and applied mathematics. I am looking forward to get back to studying after 16 months of working through internships.
 
 
 In the last 6 months:
 
 - 👯 Contributed to https://covid.army/about and joined the team to lead the backend contributors. Transitioned out when things stabilized to work on my own project. 
  
-- 🔭 I worked on a "TikTok for education and lifeskills" app called Cato which is in closed beta here: https://testflight.apple.com/join/K6efzw2s.
+- 🔭 I am working on a project in generative deep learning on the side. Aiming to launch by the end of August.
 
-  The app leverages gamification techniques and our learned behaviour of being addicted to content feeds to make learning frictionless.
+- 🌱 Spent time learning Vector Analyis and explored computational biology.  
 
-- 🌱 Picked up Haskell, learnt ring theory and group theory, studied program design from SICP, explored basic statistical learning theory in ML. 
-
-- ⚡ I write about technical and non-technical ideas and share compiled notes from what I read on [blog.madhav.space](https://blog.madhav.space/).
+- ⚡ I write about technical and non-technical ideas and share compiled notes from what I read on [blog.madhav.space](https://msinghal.dev/).
   <!-- - 👯 I’m looking to collaborate on ... -->
   <!-- - 🤔 I’m looking for help with ... -->
   <!-- - 💬 Ask me about ... -->
