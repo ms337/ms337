@@ -9,7 +9,7 @@ I  am interested in leveraging mathematics, machine learning and programming to 
 ## Currently:
 
 - Going back to school in September to finish up my last year of university.
--Working on a project in generative deep learning that generates new photos of people.
+- Working on a project in generative deep learning that generates new photos of people.
 
 
 ## In the last 6 months:
