@@ -4,22 +4,22 @@
 
 # Hi, I'm Madhav.
 
-I like building things and learning at the intersection of sciences and product/technology.
+I  am interested in leveraging mathematics, machine learning and programming to make products that people want.
 
-Currently:
+## Currently:
 
 - Going back to school in September to finish up my last year of university.
+-Working on a project in generative deep learning that generates new photos of people.
 
 
-In the last 6 months:
+## In the last 6 months:
 
-- 👯 Contributed to https://covid.army/about and joined the team to lead the backend contributors. Transitioned out when things stabilized to work on my own project. 
- 
-- 🔭 I am working on a project in generative deep learning on the side. Aiming to launch by the end of August.
+- Contributed to https://covid.army/ and joined the team to lead the backend contributors. Transitioned out when things stabilized to work on my own project. 
+- Spent time learning vector analyis and explored computational biology.  
+- Interned on the data science team at a PE firm doing everything from data engineering, full stack development, some NLP work and traditional data science work.
 
-- 🌱 Spent time learning Vector Analyis and explored computational biology.  
 
-- ⚡ I write about technical and non-technical ideas and share compiled notes from what I read on [https://msinghal.dev/](https://msinghal.dev/).
+My personal website and blog is at [https://msinghal.dev/](https://msinghal.dev/).
   <!-- - 👯 I’m looking to collaborate on ... -->
   <!-- - 🤔 I’m looking for help with ... -->
   <!-- - 💬 Ask me about ... -->
