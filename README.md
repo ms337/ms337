@@ -9,13 +9,13 @@ I am final year CS undergraduate in Canada. My technical skills are in backend, 
 I am graduating in April 2022 and thus I am currently looking for summer internships and new grad roles in software engineering and related technical areas. 
 
 
-## Currently:
+## Currently
 
 - Going back to school in September to finish up my last year of university.
 - Working full-time on a potential startup project in generative deep learning that generates new photos of people.
 
 
-## In the last 6 months:
+## In the last 6 months
 
 - Contributed to https://covid.army/ and joined the team to lead the backend contributors. Transitioned out when things stabilized to work on my own project. 
 - Spent time learning vector analyis and explored computational biology.  
