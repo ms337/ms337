@@ -31,9 +31,9 @@ My personal website and blog is at [https://msinghal.dev/](https://msinghal.dev/
 
 ## Contact
 
-You can find my contact details for hiring [on LinkedIn](https://www.linkedin.com/in/ms337/).
+You can find my contact details [here](https://www.msinghal.dev/contact) or reach out to me on [LinkedIn](https://www.linkedin.com/in/ms337/).
 
-For all other purposes you can find them [here](https://www.msinghal.dev/contact). 
+
   <!-- - 👯 I’m looking to collaborate on ... -->
   <!-- - 🤔 I’m looking for help with ... -->
   <!-- - 💬 Ask me about ... -->
@@ -65,4 +65,5 @@ For all other purposes you can find them [here](https://www.msinghal.dev/contact
 <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E?logo=amazon-aws&logoColor=white&style=for-the-badge"/>
 <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"/>
 
-</div> -->
+</div>
+ -->
