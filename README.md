@@ -6,7 +6,7 @@
 
 I am a final year CS undergraduate in Canada. My technical skills are in backend engineering and machine learning, developed through projects and 12 months of internship experiences.
 
-I am graduating in April 2022 and thus I am currently looking for summer internships and new grad roles in software engineering and related technical areas. 
+I am graduating in May 2022 and thus I am currently looking for summer internships and new grad roles in software engineering and related technical areas. 
 
 
 ## Currently
